@@ -1,0 +1,3 @@
+[submodule "angular-story-book"]
+	path = angular-story-book
+	url = git@github.com:alihasnain-techverx/angular-story-book.git
